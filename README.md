@@ -8,7 +8,7 @@
 ---
 
 ## 📚 Reading list:
-- *Discovering Modern C++* – Peter Gottschling
+- *Flatland* – Edwin Abbott Abbott
 - *The Lord of the Rings* – J.R.R. Tolkien
 - *Shoe Dog* – Phil Knight
 
